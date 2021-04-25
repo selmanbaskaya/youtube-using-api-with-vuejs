@@ -1,4 +1,5 @@
 # Using API with Vue.js
+- [Video Link](https://www.youtube.com/watch?v=TWY-XUVLIVk)
 ![](cover-photo.png)
 
 ## Project setup
