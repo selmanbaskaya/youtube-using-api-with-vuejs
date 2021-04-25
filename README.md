@@ -1,5 +1,5 @@
 # Using API with Vue.js
-![](video-cover-photo.png)
+![](cover-photo.png)
 
 ## Project setup
 ```
